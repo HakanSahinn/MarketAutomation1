@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Market.BusinessLayer/Market.BusinessLayer.csproj" />
+  <Project Path="Market.DataAccessLayer/Market.DataAccessLayer.csproj" />
+  <Project Path="Market.EntityLayer/Market.EntityLayer.csproj" />
+  <Project Path="Market.Forms/Market.Forms.csproj" />
+</Solution>
